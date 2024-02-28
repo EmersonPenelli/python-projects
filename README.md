@@ -5,7 +5,9 @@ Repositório para estudos da linguagem `Python` e desenvolvimento de projetos do
 ## Índice de Projetos
 
 - [Projeto Iniciante 1 - Quiz Game](https://github.com/EmersonPenelli/python-projects/blob/main/01%20-%20quiz_game/quiz_game.py)
-- [Projeto Iniciante 2 - Pedra, Papel e Tesoura](https://github.com/EmersonPenelli/python-projects/blob/main/02%20-%20rock_paper_scissors/rock_paper_scissors.py)
+- [Projeto Iniciante 2 - Number Guessing Game]()
+- [Projeto Iniciante 3- Pedra, Papel e Tesoura](https://github.com/EmersonPenelli/python-projects/blob/main/02%20-%20rock_paper_scissors/rock_paper_scissors.py)
+-[Projeto Iniciante 4 - Quiz Game]()
   
 - [Projeto Intermediário 1 	⌛]()
 - [Projeto Avançado 1	⌛]()
@@ -31,6 +33,4 @@ Este repositório é dedicado ao aprendizado da linguagem de programação Pytho
 
 ## Exemplos de Código
 
-```python
-# Trecho de código destacado do Projeto Iniciante 1
-print("Hello, World!")
+
