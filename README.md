@@ -4,9 +4,10 @@ Repositório para estudos da linguagem `Python` e desenvolvimento de projetos do
 
 ## Índice de Projetos
 
-- [Projeto Iniciante 1 - Quiz Game](https://github.com/EmersonPenelli/python-projects/blob/main/01%20-%20quiz_game/quiz_game.py)
-- [Projeto Iniciante 2 - Pedra, Papel e Tesoura](https://github.com/EmersonPenelli/python-projects/blob/main/02%20-%20rock_paper_scissors/rock_paper_scissors.py)
-- [Projeto Iniciante 3 - Jogo - Escolha sua própria aventura](https://github.com/EmersonPenelli/python-projects/blob/main/03-%20Choose_your_own_adventure_game/choose_your_own_adventure.py)
+- [Projeto Iniciante 1 - Quiz Game](https://github.com/EmersonPenelli/python-projects/tree/main/01%20-%20quiz_game)
+- [Projeto Iniciante 2 - Advinha o número](https://github.com/EmersonPenelli/python-projects/tree/main/02%20-%20Number_guessing)
+- [Projeto Iniciante 3 - Pedra, Papel e Tesoura](https://github.com/EmersonPenelli/python-projects/tree/main/03%20-%20Rock_paper_scissors)
+- [Projeto Iniciante 4 - Jogo - Escolha sua própria aventura](https://github.com/EmersonPenelli/python-projects/tree/main/04%20-%20Choose_your_own_adventure_game)
 
 
 - [Projeto Intermediário 1 	⌛]()
